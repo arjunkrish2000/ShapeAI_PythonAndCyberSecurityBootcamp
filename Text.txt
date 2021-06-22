@@ -1,0 +1,21 @@
+-------------------------------------------------------------
+Weather Stats for - ERNAKULAM  date = 22 Jun 2021 | 12:40:17 PM
+-------------------------------------------------------------
+Current temperature is: 27.99 deg C
+Current weather desc  :light rain
+Current Humidity      :77%
+Current wind speed    :5.45 kmph
+-------------------------------------------------------------
+Weather Stats for - PERUMBAVOOR  date and time = 22 Jun 2021 | 02:14:20 PM
+-------------------------------------------------------------
+Current temperature is: 28.98 deg C
+Current weather desc  :haze
+Current Humidity      :74%
+Current wind speed    :4.12 kmph
+-------------------------------------------------------------
+Weather Stats for - TOKYO  date and time = 22 Jun 2021 | 02:24:39 PM
+-------------------------------------------------------------
+Current temperature is: 24.88 deg C
+Current weather desc  :broken clouds
+Current Humidity      :66%
+Current wind speed    :1.79 kmph
